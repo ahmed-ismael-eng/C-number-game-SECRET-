@@ -28,11 +28,11 @@ while (arvattuLuku != oikeaLuku)
 {
     if (arvattuLuku < oikeaLuku)
     {
-        Console.WriteLine("Korkeampi");
+        Console.WriteLine("korkeampi");
     }
     else
     {
-        Console.WriteLine("Alempi");
+        Console.WriteLine("alempi");
     }
     
     arvattuLuku = int.Parse(Console.ReadLine());
