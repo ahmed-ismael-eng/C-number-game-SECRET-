@@ -1,0 +1,28 @@
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/bin/Debug/net9.0/Tehtävä.exe
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/bin/Debug/net9.0/Tehtävä.deps.json
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/bin/Debug/net9.0/Tehtävä.runtimeconfig.json
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/bin/Debug/net9.0/Tehtävä.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/bin/Debug/net9.0/Tehtävä.pdb
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.AssemblyInfoInputs.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.AssemblyInfo.cs
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.csproj.CoreCompileInputs.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/refint/Tehtävä.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.pdb
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/Tehtävä.genruntimeconfig.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/obj/Debug/net9.0/ref/Tehtävä.dll
+/home/ahmed/Desktop/Tehtävä/bin/Debug/net9.0/Tehtävä
+/home/ahmed/Desktop/Tehtävä/bin/Debug/net9.0/Tehtävä.deps.json
+/home/ahmed/Desktop/Tehtävä/bin/Debug/net9.0/Tehtävä.runtimeconfig.json
+/home/ahmed/Desktop/Tehtävä/bin/Debug/net9.0/Tehtävä.dll
+/home/ahmed/Desktop/Tehtävä/bin/Debug/net9.0/Tehtävä.pdb
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.AssemblyInfoInputs.cache
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.AssemblyInfo.cs
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.csproj.CoreCompileInputs.cache
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.dll
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/refint/Tehtävä.dll
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.pdb
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.genruntimeconfig.cache
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/ref/Tehtävä.dll
