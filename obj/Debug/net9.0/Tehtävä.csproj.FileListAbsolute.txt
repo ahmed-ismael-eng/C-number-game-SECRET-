@@ -26,3 +26,4 @@ C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Tehtävä/
 /home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.pdb
 /home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.genruntimeconfig.cache
 /home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/ref/Tehtävä.dll
+/home/ahmed/Desktop/Tehtävä/obj/Debug/net9.0/Tehtävä.sourcelink.json
